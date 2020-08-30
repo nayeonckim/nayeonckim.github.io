@@ -13,13 +13,13 @@ Education
 ---
 
 Ph.D. in Cognitive Psychology and Neuroscience, 2021 (expected) <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Princeton University (advisor: Sabine Kastner)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Princeton University (advisor: Sabine Kastner)
 
 M.A. in Cognitive Psychology and Neuroscience, 2018 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Princeton University (advisor: Sabine Kastner)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Princeton University (advisor: Sabine Kastner)
 
 B.A. in Cognitive Science, 2013 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yale University (advisors: Marcia Johnson, Karen Mitchell)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yale University (advisors: Marcia Johnson, Karen Mitchell)
 
 
 Professional Experience
