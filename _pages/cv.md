@@ -11,6 +11,7 @@ redirect_from:
 
 Education
 ---
+
 Ph.D. in Cognitive Psychology and Neuroscience, 2021 (expected)
          Princeton University (advisor: Sabine Kastner)
 
@@ -22,26 +23,31 @@ B.A. in Cognitive Science, 2013
 
 Professional Experience
 ---
+
 2013 - 2015: Research Assistant @ Human Neuroscience Lab (PI: Gregory McCarthy), Yale University
 
   
 Awards & Fellowships 
 ---
+
 2018  Flux Ambassador Award, Flux Congress (Berlin, Germany)
+
 2016  Brains, Minds, and Machines Workshop Fellowship, Marine Biology Laboratory
+
 2012  Yale College Dean’s Research Fellowship in the Sciences
+
 2012  Sherwood E. Silliman Travel Fellowship
-2010  Perspectives on Science and Engineering Summer Research Fellowship 
+
+2010  Perspectives on Science and Engineering Summer Research Fellowship <br>
       (for selected students with strong background in science)
-2009-2013  Korea Presidential Honors 
-          (full support for undergraduate studies abroad, 
-          selected ten students majoring in science and engineering; total amount $200,000)
+      
+2009-2013  Korea Presidential Honors <br>
+          (full support for undergraduate studies abroad, top ten students majoring in science and engineering; total amount $200,000)
 
 Publications
 ---
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
+See [`Publications`](https://nayeonckim.github.io/publications/)
  
  
 Teaching
