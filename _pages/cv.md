@@ -25,7 +25,8 @@ B.A. in Cognitive Science, 2013 <br>
 Professional Experience
 ---
 ---
-`2013 - 2015` Research Assistant @ Human Neuroscience Lab (PI: Gregory McCarthy), Yale University
+`2013 - 2015` Research Assistant <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Human Neuroscience Lab (PI: Gregory McCarthy), Yale University
 
   
 Awards & Fellowships 
