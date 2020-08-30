@@ -11,30 +11,25 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Cognitive Psychology and Neuroscience, Princeton University, 2021 (expected)
+* M.A. in Cognitive Psychology and Neuroscience, Princeton University, 2018
+* B.A. in Cognitive Science, Yale University, 2013 
 
-Work experience
+Professional Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2013 - 2015: Research Assistant
+  * Human Neuroscience Lab, Yale University
+  * P.I.: Gregory McCarthy
   
-Skills
+Awards & Fellowships 
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2018: Flux Ambassador Award, Flux Congress (Berlin, Germany)
+* 2016: Brains, Minds, and Machines Workshop Fellowship, Marine Biology Laboratory
+* 2012: Yale College Dean’s Research Fellowship in the Sciences
+* 2012: Sherwood E. Silliman Travel Fellowship
+* 2010: Perspectives on Science and Engineering Summer Research Fellowship (for selected students with strong background in science)
+* 2009-2013: Korea Presidential Honors (full support for undergraduate studies abroad, selected
+ten students majoring in science and engineering; total amount $200,000)
 
 Publications
 ======
@@ -42,18 +37,33 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Head Lab Instructor
+  * Introduction to Psychology (instructor: Joel Cooper), Princeton Univ, Fall 2019  
+* Preceptor
+  * Quantitative Methods (instructor: Justin Jungé), Princeton Univ, Spring 2019
+  * The Life Cycle of Behaviors (instructor: Asif Ghazanfar), Princeton Univ, Spring 2018
+  * Sensation and Perception (instructor: Jonathan Pillow), Princeton Univ, Fall 2017
+* Lab Instructor 
+  * Introduction to Psychology (instructor: Joel Cooper), Princeton Univ, Fall 2016
+
+* Guest Lectures
+  * "Conditioning and Learning, Behaviorism" for Introduction to Psychology, Princeton Univ, Fall 2019
+  * "Child Development" for The Life Cycle of Behaviors, Princeton Univ, Spring 2018
   
-Service and leadership
+Service and Leadership
 ======
-* Currently signed in to 43 different slack teams
+* 2019-present: Flux Trainee Committee
+* 2016-2017: Princeton Psychology Social Hour Organizer
+* 2016: Visiting Day Organizer for Prospective Graduate Students (Psychology Dept at Princeton)
+
+Community Outreach
+======
+* 2020: North Star Academy Washington Park High School Career Fair, Newark NJ
+* 2020: Jose Marti STEM Academy, Union City NJ
+* 2018-2019: Littlebrook Elementary School Science Expo Presenter, Princeton NJ
+* 2018: Hopewell Elementary School Science Fair Judge, Hopewell NJ
+* 2016, 2018: Young Women’s Conference in STEM Exhibitor, Princeton NJ
+* 2016-2020: Princeton Communiversity Exhibitor, Princeton NJ
+
