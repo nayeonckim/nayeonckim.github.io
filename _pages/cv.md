@@ -11,16 +11,16 @@ redirect_from:
 
 Education
 ---
-<pre>
-Ph.D. in Cognitive Psychology and Neuroscience, 2021 (expected) 
-         Princeton University (advisor: Sabine Kastner)
 
-M.A. in Cognitive Psychology and Neuroscience, 2018 
-         Princeton University (advisor: Sabine Kastner)
+Ph.D. in Cognitive Psychology and Neuroscience, 2021 (expected) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;Princeton University (advisor: Sabine Kastner)
 
-B.A. in Cognitive Science, 2013 
-        Yale University (advisors: Marcia Johnson, Karen Mitchell)
-</pre>
+M.A. in Cognitive Psychology and Neuroscience, 2018 <br>
+&nbsp;&nbsp;&nbsp;&nbsp;Princeton University (advisor: Sabine Kastner)
+
+B.A. in Cognitive Science, 2013 <br>
+&nbsp;&nbsp;&nbsp;&nbsp;Yale University (advisors: Marcia Johnson, Karen Mitchell)
+
 
 Professional Experience
 ---
