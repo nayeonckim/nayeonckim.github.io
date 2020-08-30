@@ -10,26 +10,33 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
-* Ph.D. in Cognitive Psychology and Neuroscience, Princeton University, 2021 (expected)
-* M.A. in Cognitive Psychology and Neuroscience, Princeton University, 2018
-* B.A. in Cognitive Science, Yale University, 2013 
+---
+Ph.D. in Cognitive Psychology and Neuroscience, 2021 (expected)
+         Princeton University (advisor: Sabine Kastner)
+
+M.A. in Cognitive Psychology and Neuroscience, 2018
+         Princeton University (advisor: Sabine Kastner)
+
+B.A. in Cognitive Science, 2013 
+        Yale University (advisors: Marcia Johnson, Karen Mitchell)
 
 Professional Experience
-======
-* 2013 - 2015: Research Assistant
+---
+2013 - 2015: Research Assistant
   * Human Neuroscience Lab, Yale University
   * P.I.: Gregory McCarthy
   
 Awards & Fellowships 
 ======
-* 2018: Flux Ambassador Award, Flux Congress (Berlin, Germany)
-* 2016: Brains, Minds, and Machines Workshop Fellowship, Marine Biology Laboratory
-* 2012: Yale College Dean’s Research Fellowship in the Sciences
-* 2012: Sherwood E. Silliman Travel Fellowship
-* 2010: Perspectives on Science and Engineering Summer Research Fellowship (for selected students with strong background in science)
-* 2009-2013: Korea Presidential Honors (full support for undergraduate studies abroad, selected
-ten students majoring in science and engineering; total amount $200,000)
+2018: Flux Ambassador Award, Flux Congress (Berlin, Germany)
+2016: Brains, Minds, and Machines Workshop Fellowship, Marine Biology Laboratory
+2012: Yale College Dean’s Research Fellowship in the Sciences
+2012: Sherwood E. Silliman Travel Fellowship
+2010: Perspectives on Science and Engineering Summer Research Fellowship 
+      (for selected students with strong background in science)
+2009-2013: Korea Presidential Honors 
+          (full support for undergraduate studies abroad, 
+          selected ten students majoring in science and engineering; total amount $200,000)
 
 Publications
 ======
@@ -39,16 +46,18 @@ Publications
   
 Teaching
 ======
-* Head Lab Instructor
+*Head Lab Instructor*
   * Introduction to Psychology (instructor: Joel Cooper), Princeton Univ, Fall 2019  
-* Preceptor
+  
+*Preceptor*
   * Quantitative Methods (instructor: Justin Jungé), Princeton Univ, Spring 2019
   * The Life Cycle of Behaviors (instructor: Asif Ghazanfar), Princeton Univ, Spring 2018
   * Sensation and Perception (instructor: Jonathan Pillow), Princeton Univ, Fall 2017
-* Lab Instructor 
+  
+*Lab Instructor* 
   * Introduction to Psychology (instructor: Joel Cooper), Princeton Univ, Fall 2016
 
-* Guest Lectures
+*Guest Lectures*
   * "Conditioning and Learning, Behaviorism" for Introduction to Psychology, Princeton Univ, Fall 2019
   * "Child Development" for The Life Cycle of Behaviors, Princeton Univ, Spring 2018
   
