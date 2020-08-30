@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ---
-
+---
 Ph.D. in Cognitive Psychology and Neuroscience, 2021 (expected) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Princeton University (advisor: Sabine Kastner)
 
@@ -55,19 +55,19 @@ See [`Publications`](https://nayeonckim.github.io/publications/)
 Teaching
 ---
 *Head Lab Instructor* <br>
-`Fall 2019` Introduction to Psychology (instructor: Joel Cooper), Princeton Univ  
+`Fall 2019` Introduction to Psychology (instructor: Joel Cooper), Princeton   
   
 *Preceptor* <br>
-`Spring 2019` Quantitative Methods (instructor: Justin Jungé), Princeton Univ <br>
-`Spring 2018` The Life Cycle of Behaviors (instructor: Asif Ghazanfar), Princeton Univ <br> 
-`Fall 2017` Sensation and Perception (instructor: Jonathan Pillow), Princeton Univ
+`Spring 2019` Quantitative Methods (instructor: Justin Jungé), Princeton  <br>
+`Spring 2018` The Life Cycle of Behaviors (instructor: Asif Ghazanfar), Princeton  <br> 
+`Fall 2017` Sensation and Perception (instructor: Jonathan Pillow), Princeton 
   
 *Lab Instructor* <br>
-`Fall 2016` Introduction to Psychology (instructor: Joel Cooper), Princeton Univ
+`Fall 2016` Introduction to Psychology (instructor: Joel Cooper), Princeton 
 
 *Guest Lectures* <br>
-`Fall 2019` "Conditioning and Learning, Behaviorism" for Introduction to Psychology, Princeton Univ <br>
-`Spring 2018` "Child Development" for The Life Cycle of Behaviors, Princeton Univ <br>
+`Fall 2019` "Conditioning and Learning, Behaviorism" for Introduction to Psychology, Princeton  <br>
+`Spring 2018` "Child Development" for The Life Cycle of Behaviors, Princeton <br>
   
 Service and Leadership
 ---
