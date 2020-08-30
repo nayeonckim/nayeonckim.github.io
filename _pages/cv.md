@@ -40,33 +40,34 @@ Awards & Fellowships
 `2012`  Sherwood E. Silliman Travel Fellowship
 
 `2010`  Perspectives on Science and Engineering Summer Research Fellowship <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(for selected students with strong background in science)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(for selected students with strong background in science)
       
 `2009-2013`  Korea Presidential Honors <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(full support for undergraduate studies abroad, top ten students majoring in science and engineering; total amount $200,000)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(full support for undergraduate studies abroad, top ten students majoring in science and engineering; total amount $200,000)
 
 Publications
 ---
 
 See [`Publications`](https://nayeonckim.github.io/publications/)
  
- 
+
+
 Teaching
 ---
 *Head Lab Instructor*
-  * Introduction to Psychology (instructor: Joel Cooper), Princeton Univ, Fall 2019  
+`Fall 2019` Introduction to Psychology (instructor: Joel Cooper), Princeton Univ  
   
 *Preceptor*
-  * Quantitative Methods (instructor: Justin Jungé), Princeton Univ, Spring 2019
-  * The Life Cycle of Behaviors (instructor: Asif Ghazanfar), Princeton Univ, Spring 2018
-  * Sensation and Perception (instructor: Jonathan Pillow), Princeton Univ, Fall 2017
+`Spring 2019` Quantitative Methods (instructor: Justin Jungé), Princeton Univ
+`Spring 2018` The Life Cycle of Behaviors (instructor: Asif Ghazanfar), Princeton Univ
+`Fall 2017` Sensation and Perception (instructor: Jonathan Pillow), Princeton Univ
   
 *Lab Instructor* 
-  * Introduction to Psychology (instructor: Joel Cooper), Princeton Univ, Fall 2016
+`Fall 2016` Introduction to Psychology (instructor: Joel Cooper), Princeton Univ
 
 *Guest Lectures*
-  * "Conditioning and Learning, Behaviorism" for Introduction to Psychology, Princeton Univ, Fall 2019
-  * "Child Development" for The Life Cycle of Behaviors, Princeton Univ, Spring 2018
+`Fall 2019` "Conditioning and Learning, Behaviorism" for Introduction to Psychology, Princeton Univ
+`Spring 2018` "Child Development" for The Life Cycle of Behaviors, Princeton Univ
   
 Service and Leadership
 ---
