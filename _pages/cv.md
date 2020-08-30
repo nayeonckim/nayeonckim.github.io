@@ -24,13 +24,13 @@ B.A. in Cognitive Science, 2013 <br>
 
 Professional Experience
 ---
-
+---
 `2013 - 2015` Research Assistant @ Human Neuroscience Lab (PI: Gregory McCarthy), Yale University
 
   
 Awards & Fellowships 
 ---
-
+---
 `2018`  Flux Ambassador Award, Flux Congress (Berlin, Germany)
 
 `2016`  Brains, Minds, and Machines Workshop Fellowship, Marine Biology Laboratory
@@ -47,12 +47,13 @@ Awards & Fellowships
 
 Publications
 ---
-
+---
 See [`Publications`](https://nayeonckim.github.io/publications/)
  
 
 
 Teaching
+---
 ---
 *Head Lab Instructor* <br>
 `Fall 2019` Introduction to Psychology (instructor: Joel Cooper), Princeton   
@@ -71,11 +72,13 @@ Teaching
   
 Service and Leadership
 ---
+---
 * 2019-present: Flux Trainee Committee
 * 2016-2017: Princeton Psychology Social Hour Organizer
 * 2016: Visiting Day Organizer for Prospective Graduate Students (Psychology Dept at Princeton)
 
 Community Outreach
+---
 ---
 * 2020: North Star Academy Washington Park High School Career Fair, Newark NJ
 * 2020: Jose Marti STEM Academy, Union City NJ
