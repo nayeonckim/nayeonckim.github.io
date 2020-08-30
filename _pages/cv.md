@@ -58,16 +58,16 @@ Teaching
 `Fall 2019` Introduction to Psychology (instructor: Joel Cooper), Princeton Univ  
   
 *Preceptor* <br>
-`Spring 2019` Quantitative Methods (instructor: Justin Jungé), Princeton Univ 
-`Spring 2018` The Life Cycle of Behaviors (instructor: Asif Ghazanfar), Princeton Univ 
+`Spring 2019` Quantitative Methods (instructor: Justin Jungé), Princeton Univ <br>
+`Spring 2018` The Life Cycle of Behaviors (instructor: Asif Ghazanfar), Princeton Univ <br> 
 `Fall 2017` Sensation and Perception (instructor: Jonathan Pillow), Princeton Univ
   
 *Lab Instructor* <br>
 `Fall 2016` Introduction to Psychology (instructor: Joel Cooper), Princeton Univ
 
 *Guest Lectures* <br>
-`Fall 2019` "Conditioning and Learning, Behaviorism" for Introduction to Psychology, Princeton Univ
-`Spring 2018` "Child Development" for The Life Cycle of Behaviors, Princeton Univ
+`Fall 2019` "Conditioning and Learning, Behaviorism" for Introduction to Psychology, Princeton Univ <br>
+`Spring 2018` "Child Development" for The Life Cycle of Behaviors, Princeton Univ <br>
   
 Service and Leadership
 ---
