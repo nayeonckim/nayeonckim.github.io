@@ -22,30 +22,30 @@ B.A. in Cognitive Science, 2013
 
 Professional Experience
 ---
-2013 - 2015: Research Assistant
-  * Human Neuroscience Lab, Yale University
-  * P.I.: Gregory McCarthy
+2013 - 2015: Research Assistant @ Human Neuroscience Lab (PI: Gregory McCarthy), Yale University
+
   
 Awards & Fellowships 
-======
-2018: Flux Ambassador Award, Flux Congress (Berlin, Germany)
-2016: Brains, Minds, and Machines Workshop Fellowship, Marine Biology Laboratory
-2012: Yale College Dean’s Research Fellowship in the Sciences
-2012: Sherwood E. Silliman Travel Fellowship
-2010: Perspectives on Science and Engineering Summer Research Fellowship 
+---
+2018  Flux Ambassador Award, Flux Congress (Berlin, Germany)
+2016  Brains, Minds, and Machines Workshop Fellowship, Marine Biology Laboratory
+2012  Yale College Dean’s Research Fellowship in the Sciences
+2012  Sherwood E. Silliman Travel Fellowship
+2010  Perspectives on Science and Engineering Summer Research Fellowship 
       (for selected students with strong background in science)
-2009-2013: Korea Presidential Honors 
+2009-2013  Korea Presidential Honors 
           (full support for undergraduate studies abroad, 
           selected ten students majoring in science and engineering; total amount $200,000)
 
 Publications
-======
+---
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+ 
+ 
 Teaching
-======
+---
 *Head Lab Instructor*
   * Introduction to Psychology (instructor: Joel Cooper), Princeton Univ, Fall 2019  
   
@@ -62,13 +62,13 @@ Teaching
   * "Child Development" for The Life Cycle of Behaviors, Princeton Univ, Spring 2018
   
 Service and Leadership
-======
+---
 * 2019-present: Flux Trainee Committee
 * 2016-2017: Princeton Psychology Social Hour Organizer
 * 2016: Visiting Day Organizer for Prospective Graduate Students (Psychology Dept at Princeton)
 
 Community Outreach
-======
+---
 * 2020: North Star Academy Washington Park High School Career Fair, Newark NJ
 * 2020: Jose Marti STEM Academy, Union City NJ
 * 2018-2019: Littlebrook Elementary School Science Expo Presenter, Princeton NJ
