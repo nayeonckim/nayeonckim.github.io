@@ -34,7 +34,7 @@ Engell, A. D., **Kim, N. Y.**, & McCarthy, G. (2018) Sensitivity to faces with t
 ## Outreach Articles
 
 Hoyos, P. M., **Kim, N. Y.**, & Kastner, S (2019) How is magnetic resonance imaging used to learn
-about the brain? Frontiers for Young Minds, 7:86.
+about the brain? Frontiers for Young Minds, 7:86. [`Link`](https://kids.frontiersin.org/article/10.3389/frym.2019.00086)
 
 
 
