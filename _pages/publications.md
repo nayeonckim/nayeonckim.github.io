@@ -13,7 +13,7 @@ author_profile: true
 {% include base_path %}
 ## Preprints
 
-**Kim, N. Y.**, Pinsk, M. A., & Kastner, S. Neural basis of biased competition in development: Sensory competition in visual cortex of school-aged children. bioRxiv (soon to be posted!) 
+**Kim, N. Y.**, Pinsk, M. A., & Kastner, S. Neural basis of biased competition in development: Sensory competition in visual cortex of school-aged children. *bioRxiv* (soon to be posted!) 
 
 
 ## Peer-reviewed Publications
