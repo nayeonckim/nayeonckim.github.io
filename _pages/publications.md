@@ -18,7 +18,7 @@ author_profile: true
 
 ## Peer-reviewed Publications
 
-Hoyos, P. M.+, **Kim, N. Y.+**, Cheng, D., Finkelston, A., & Kastner, S (under review) Development of spatial
+Hoyos, P. M.+, **Kim, N. Y.+**, Cheng, D., Finkelston, A., & Kastner, S (in press) Development of spatial
 biases in school-aged children. *Developmental Science*. (+ Co-first authorship)
 
 **Kim, N. Y.** & Kastner, S (2019) A biased competition theory for the developmental cognitive
