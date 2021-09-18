@@ -26,7 +26,7 @@ Professional Experience
 ---
 ---
 `2021 -    ` Postdoctoral Scholar <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Emotion & Social Cognition Lab (PI: Ralph Adolphs), Caltech
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Emotion & Social Cognition Lab (PI: Ralph Adolphs), California Institute of Technology
 
 `2013 - 2015` Research Assistant <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Human Neuroscience Lab (PI: Gregory McCarthy), Yale University
