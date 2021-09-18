@@ -12,7 +12,7 @@ redirect_from:
 Education
 ---
 ---
-Ph.D. in Cognitive Psychology and Neuroscience, 2021 (expected) <br>
+Ph.D. in Cognitive Psychology and Neuroscience, 2021 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Princeton University (advisor: Sabine Kastner)
 
 M.A. in Cognitive Psychology and Neuroscience, 2018 <br>
@@ -25,6 +25,9 @@ B.A. in Cognitive Science, 2013 <br>
 Professional Experience
 ---
 ---
+`2021 -    ` Postdoctoral Scholar <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Emotion & Social Cognition Lab (PI: Ralph Adolphs), Caltech
+
 `2013 - 2015` Research Assistant <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Human Neuroscience Lab (PI: Gregory McCarthy), Yale University
 
@@ -32,6 +35,8 @@ Professional Experience
 Awards & Fellowships 
 ---
 ---
+`2021`  Della	Martin Postdoctoral Fellowship, California Institute of Technology
+
 `2018`  Flux Ambassador Award, Flux Congress (Berlin, Germany)
 
 `2016`  Brains, Minds, and Machines Workshop Fellowship, Marine Biology Laboratory
