@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-For a pdf version of CV, please click [HERE](https://nayeonckim.github.io/files/NYKim_CV_Oct2022.pdf).
+<br> Please click [HERE](https://nayeonckim.github.io/files/NYKim_CV_Oct2022.pdf) for a pdf version.
 
 Education
 ---
